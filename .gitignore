@@ -1,3 +1,8 @@
-__Previews/
-History/
-Project Logs for vending-pad-002/
+**/History/
+**/__Previews/
+**/Project Logs for */
+*.LOG
+*.SchDocPreview
+*.zip
+*.DXPPrf
+*.html
