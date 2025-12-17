@@ -1,2 +1,3 @@
 GSM=uTX,uRX
 motor=motor_con_1,motor_con_2,motor_con_3
+Switch=SW_1,SW_2,SW_3,SW_4
