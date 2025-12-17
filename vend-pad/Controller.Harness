@@ -1,3 +1,4 @@
+GLCD=D/I,R/W,E,DB0,DB1,DB2,DB3,DB4,DB5,DB6,DB7,CS1,CS2,RST_glcd
 GSM=uTX,uRX
 motor=motor_con_1,motor_con_2,motor_con_3
 Switch=SW_1,SW_2,SW_3,SW_4
